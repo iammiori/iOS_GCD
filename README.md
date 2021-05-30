@@ -1,1 +1,2 @@
-# iOS_GCD
+# iOS_GCD(Grand Central Dispatch)
+
