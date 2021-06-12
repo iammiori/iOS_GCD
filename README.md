@@ -1,4 +1,4 @@
 # iOS_GCD(Grand Central Dispatch)
 
 ## 1. Concurrency
-- global queue : photo
+- global queue : about photo
